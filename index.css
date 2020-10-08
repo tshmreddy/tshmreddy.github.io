@@ -1,0 +1,113 @@
+body{
+	background-color:#c9cab9;
+}
+#name{
+	text-decoration: none;
+	background:#3d5779;
+	color:white;
+	font-family: Times New Roman;
+	font-size: 100%;
+	float: right;
+	padding: 10px;
+}
+#myname{
+	color:white;
+	background: #3d5779;
+	padding:20px 10px;
+	margin-top: 0px;
+  	margin-bottom: 0px;
+  	margin-right: 0px;
+  	margin-left: 0px;
+	font-family: Impact;
+}
+#myname2{
+	color:white;
+	background: black;
+	font-family: Courier New;
+	display: inline-block;
+}
+#name:hover{
+	background-color: white;
+	color:black;
+	padding-top: 10px;
+	padding:10px;
+	display: inline;
+}
+#visit:active{
+	background-color: white;
+	color:black;
+	padding-top: 10px;
+	padding:10px;
+	display: inline;
+}
+img{
+	padding-right: 10px;
+}
+#mainheading{
+	font-size: 100%;
+	text-align: center;
+	font-family: times new roman;
+
+}
+#headline{
+	font-family:Comic Sans MS;
+}
+#headinginaboutme{
+	font-family: Comic Sans MS;
+	color:black;
+	display: inline;
+}
+#aboutme{
+	font-family: Candara;
+	font-size: 50px;
+}
+
+#lastname{
+	display:inline;
+	color:white;
+}
+iframe{
+	width:50%;
+	height:600px;
+	background-color: white; 
+	border-style: outset;
+}
+#paboutme{
+	font-family: sans-serif;
+	color:black;
+	font-size: 150%;
+}
+.bold{
+	font-weight: bold;
+}
+.bold1{
+	font-weight: bold;
+	font-family: Times New Roman;
+}
+#contact{
+	color: red;
+	font-size:300%;
+	text-align:right;
+	margin-right:10px;
+
+}
+.intro::first-letter {
+  color: #ff0000;
+  font-size:200%;
+}  
+#h1div {
+  border: 1px solid black;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 0px;
+
+}
+.active, .btn:hover {
+  background-color: #666;
+  color: white;
+}
+#aboutimage{
+	display: inline;
+	padding-left:60px;
+}
